@@ -1,4 +1,4 @@
-# LoST Board
+# STM32 X RFM96 Board
 This is an STM32 based board that features semtechs LoRa Chip
 Some of the features include
 - USB connection
@@ -8,10 +8,10 @@ Some of the features include
 - Ultra low power STM32 chip
 
 # Images
-![image one](Images/LoRa_STM32_Board%201.png)
-![Image two](Images/LoRa_STM32_Board%205.png)
-![Image three](Images/LoRa_STM32_Board%208.png)
-![Image four](Images/LoRa_STM32_Board%2011.png)
+![Image one](Images/1.1.png)
+![Image two](Images/2.png)
+![Image two](Images/3.png)
+![Image two](Images/4.png)
 
 # KiCAD
 I am using KiCAD v7.0
