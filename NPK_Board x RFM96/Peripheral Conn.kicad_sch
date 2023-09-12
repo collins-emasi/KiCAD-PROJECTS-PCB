@@ -1,0 +1,17 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid f5642254-5a03-4b6f-80bd-741c151b362e)
+
+  (paper "A4")
+
+  (title_block
+    (title "NPK RFM96 Board")
+    (date "2023-08-11")
+    (rev "v1a")
+    (company "SENSEA LABS")
+  )
+
+  (lib_symbols
+  )
+
+)
